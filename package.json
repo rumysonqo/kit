@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
         "dev": "nodemon src/index.js",
-        "start":"node src/index.js start"
+        "start": "node src/index.js start"
     },
     "keywords": [],
     "author": "",
@@ -15,7 +15,8 @@
         "express": "^4.17.1",
         "morgan": "^1.10.0",
         "mysql": "^2.18.1",
-        "mysql2": "^2.3.3"
+        "mysql2": "^2.3.3",
+        "vue": "^3.2.31"
     },
     "devDependencies": {
         "@mdi/font": "^6.4.95",
